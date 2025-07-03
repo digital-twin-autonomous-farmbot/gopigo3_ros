@@ -7,7 +7,6 @@ A ROS 2 package for controlling the GoPiGo3 robot using Twist messages. This pac
 ## Overview
 - **Version:** 0.1.0
 - **License:** Apache-2.0
-- **Maintainer:** noi (noiringraham65@gmail.com)
 
 This package contains a ROS 2 node that subscribes to `cmd_vel` topic and translates velocity commands into GoPiGo3 motor controls.
 
